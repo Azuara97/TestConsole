@@ -1,0 +1,13 @@
+/Users/ricardoazuara/Projects/StandardTest/StandardTest/bin/Debug/netcoreapp3.1/StandardTest.deps.json
+/Users/ricardoazuara/Projects/StandardTest/StandardTest/bin/Debug/netcoreapp3.1/StandardTest.runtimeconfig.json
+/Users/ricardoazuara/Projects/StandardTest/StandardTest/bin/Debug/netcoreapp3.1/StandardTest.runtimeconfig.dev.json
+/Users/ricardoazuara/Projects/StandardTest/StandardTest/bin/Debug/netcoreapp3.1/StandardTest.dll
+/Users/ricardoazuara/Projects/StandardTest/StandardTest/bin/Debug/netcoreapp3.1/StandardTest.pdb
+/Users/ricardoazuara/Projects/StandardTest/StandardTest/obj/Debug/netcoreapp3.1/StandardTest.csproj.AssemblyReference.cache
+/Users/ricardoazuara/Projects/StandardTest/StandardTest/obj/Debug/netcoreapp3.1/StandardTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ricardoazuara/Projects/StandardTest/StandardTest/obj/Debug/netcoreapp3.1/StandardTest.AssemblyInfoInputs.cache
+/Users/ricardoazuara/Projects/StandardTest/StandardTest/obj/Debug/netcoreapp3.1/StandardTest.AssemblyInfo.cs
+/Users/ricardoazuara/Projects/StandardTest/StandardTest/obj/Debug/netcoreapp3.1/StandardTest.csproj.CoreCompileInputs.cache
+/Users/ricardoazuara/Projects/StandardTest/StandardTest/obj/Debug/netcoreapp3.1/StandardTest.dll
+/Users/ricardoazuara/Projects/StandardTest/StandardTest/obj/Debug/netcoreapp3.1/StandardTest.pdb
+/Users/ricardoazuara/Projects/StandardTest/StandardTest/obj/Debug/netcoreapp3.1/StandardTest.genruntimeconfig.cache
